@@ -1,0 +1,8 @@
+README.md
+setup.py
+email_predictor.egg-info/PKG-INFO
+email_predictor.egg-info/SOURCES.txt
+email_predictor.egg-info/dependency_links.txt
+email_predictor.egg-info/entry_points.txt
+email_predictor.egg-info/requires.txt
+email_predictor.egg-info/top_level.txt

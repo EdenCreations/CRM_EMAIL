@@ -1,0 +1,2 @@
+[console_scripts]
+email-predict = email_predictor.cli:main
